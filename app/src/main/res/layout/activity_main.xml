@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="24dp" android:background="#1a1a2e" android:gravity="center">
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="🛵 PeyaCalc Float - Nivel 1 Seguro" android:textSize="22sp" android:textColor="#FF5E3A" android:textStyle="bold" android:layout_marginBottom="16dp"/>
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Esta app NO lee datos de Peya Rider. Solo es tu calculadora flotante. Sin riesgo de baneo." android:textColor="#a0a0a0" android:gravity="center" android:layout_marginBottom="24dp"/>
+<com.google.android.material.button.MaterialButton android:id="@+id/btnActivar" android:layout_width="match_parent" android:layout_height="56dp" android:text="Activar Burbuja Flotante" android:textSize="16sp"/>
+</LinearLayout>
